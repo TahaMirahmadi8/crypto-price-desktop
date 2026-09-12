@@ -21,3 +21,7 @@ A modern, high-performance desktop application designed for real-time cryptocurr
 *   **GUI Framework:** CustomTkinter
 *   **Data Handling:** `Requests` / `JSON`
 *   **API:** Nobitex API
+
+## Install
+
+*   [download the latest version](https://github.com/TahaMirahmadi8/crypto-price-desktop/releases/download/v1.0.0/CryptoPrice.exe)
